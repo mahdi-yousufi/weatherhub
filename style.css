@@ -156,9 +156,10 @@ body {
     .card {
         padding: 40px 10px;
         /* margin-left: 10px; */
-        width: 100%;
-        margin: 0 10px;
-        /* margin-bottom: 20px; */
+        margin-right: 10px;
+        margin-left: 10px;
+        /* margin-top: ; */
+        margin-bottom: 20px;
     }
 
     .search button {
@@ -202,7 +203,11 @@ body {
         padding: 40px 10px;
         /* margin-left: 10px; */
         width: 100%;
-        margin: 0 10px;
+        /* margin: 0 10px; */
+        margin-right: 10px;
+        margin-left: 10px;
+        /* margin-top: ; */
+        margin-bottom: 20px;
         /* margin-bottom: 20px; */
     }
 
