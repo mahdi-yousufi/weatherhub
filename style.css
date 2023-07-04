@@ -177,7 +177,7 @@ body {
     #B {
         padding: 0;
         margin-right: 0;
-        margin-left: 20px;
+        margin-left: 15px;
     }
 
     .humidity,
@@ -186,7 +186,7 @@ body {
     }
 
     .details {
-        padding: 0 10px;
+        padding: 0 12px;
     }
 
 }
@@ -234,11 +234,11 @@ body {
         /* margin-left: 15px; */
         padding: 0;
         margin-right: 0;
-        margin-left: 20px;
+        margin-left: 15px;
     }
 
     .details {
-        padding: 0 10px;
+        padding: 0 12px;
     }
 
     .humidity,
